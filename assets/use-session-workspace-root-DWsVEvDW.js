@@ -1,2 +1,0 @@
-import{i as e}from"./rolldown-runtime-Dd_uD5pT.js";import{f as t}from"./Toggle-Chc131WR.js";import{p as n}from"./index-BtWM1N4f.js";var r=e(t(),1);function i(e,t){let i=(0,r.useMemo)(()=>e?{fetchAgent:t=>e.fetchAgent(t),subscribeAgentUpdates:t=>e.on(`agent_update`,e=>t({payload:e.payload}))}:null,[e]);return n(i,t)?.cwd??``}export{i as t};
-//# sourceMappingURL=use-session-workspace-root-DWsVEvDW.js.map
