@@ -1,0 +1,2 @@
+import{i as e}from"./rolldown-runtime-Dd_uD5pT.js";import{f as t}from"./Toggle-Chc131WR.js";import{t as n}from"./useRouter-C9uLYux1.js";var r=e(t(),1);function i(e){let t=n();return r.useCallback(n=>t.navigate({...n,from:n.from??e?.from}),[e?.from,t])}export{i as t};
+//# sourceMappingURL=useNavigate-BYvP6KyE.js.map

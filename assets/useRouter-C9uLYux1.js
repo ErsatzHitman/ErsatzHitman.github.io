@@ -1,0 +1,2 @@
+import{i as e}from"./rolldown-runtime-Dd_uD5pT.js";import{f as t}from"./Toggle-Chc131WR.js";var n=e(t(),1),r=n.createContext(null);function i(e){return n.useContext(r)}export{r as n,i as t};
+//# sourceMappingURL=useRouter-C9uLYux1.js.map
